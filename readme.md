@@ -1,6 +1,8 @@
 # Snapshot
 
+Blog: [Selenium - FullPage ScreenShot](https://partypeopleland.github.io/artblog/2022/09/05/Selenium-FullPage-ScreenShot/)   
 使用 Selenium 4 + ChromeDriver 進行網頁截圖
+
 
 ## 重點
 
